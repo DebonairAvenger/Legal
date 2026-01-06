@@ -10,16 +10,12 @@ The Application does not collect, store, or require any personally identifiable 
 
 Third-Party Services
 
-The Application is built using Unity and may use Unity’s essential diagnostics and crash reporting services. These services may automatically collect limited technical information, such as:
+The Application is built using Unity and uses Unity’s essential diagnostics and crash reporting services. These services may automatically collect limited technical information, such as device type, operating system version, and app performance or crash data.
 
-Device type and operating system
+This data is collected and processed by Unity on behalf of the Service Provider, in accordance with the Service Provider’s configuration and Unity’s privacy policy. The Service Provider does not directly access individual user data or use this information for identification, tracking, or marketing purposes.
 
-App performance and crash data
-
-Approximate technical identifiers required for diagnostics
-
-This data is collected and processed by Unity in accordance with their own privacy policy.
-The Service Provider does not directly access, store, or control this data.
+Unity’s Privacy Policy can be found here:
+https://unity.com/legal/privacy-policy
 
 Local Data Storage
 
