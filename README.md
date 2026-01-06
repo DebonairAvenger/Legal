@@ -1,2 +1,52 @@
-# Legal
-Legal-related pages and documents.
+Privacy Policy
+
+Effective Date: January 6, 2026
+
+This Privacy Policy applies to Entropy’s Edge (“the Application”), a free mobile game developed by Aaron Johnston (“Service Provider”).
+
+Information Collection and Use
+
+The Application does not collect, store, or require any personally identifiable information from users.
+
+Third-Party Services
+
+The Application is built using Unity and uses Unity’s essential diagnostics and crash reporting services. These services may automatically collect limited technical information, such as device type, operating system version, and app performance or crash data.
+
+This data is collected and processed by Unity on behalf of the Service Provider, in accordance with the Service Provider’s configuration and Unity’s privacy policy. The Service Provider does not directly access individual user data or use this information for identification, tracking, or marketing purposes.
+
+Unity’s Privacy Policy can be found here:
+https://unity.com/legal/privacy-policy
+
+Local Data Storage
+
+The Application stores a small amount of data locally on the user’s device only, including:
+
+Audio volume settings
+
+First-time tutorial completion status
+
+High score data
+
+This data is used solely to improve gameplay experience and is not transmitted off the device.
+Uninstalling the Application will remove all locally stored data.
+
+Children’s Privacy
+
+The Application does not knowingly collect any personal information from children under the age of 13.
+
+Opt-Out Rights
+
+Users may stop all data collection by uninstalling the Application using standard device procedures.
+
+Security
+
+The Service Provider is committed to safeguarding user privacy. No personal data is stored or processed by the Application outside of third-party services provided by Unity.
+
+Changes to This Policy
+
+This Privacy Policy may be updated from time to time. Any changes will be reflected on this page.
+
+Contact
+
+If you have questions about this Privacy Policy, you may contact the Service Provider at:
+aajohnston52@gmail.com
